@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a138141-2f8b-4ca5-91ab-354ef9afc049" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/src/main/java/ca/gbc/productservices/ProductServicesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/product-services/src/test/java/ca/gbc/productservices/ProductServicesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/src/main/java/ca/gbc/microserviseparent/MicroserviseParentApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservise-parent/src/test/java/ca/gbc/microserviseparent/MicroserviseParentApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/product-services">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2VjZ7pT9zmd2iXPet22WoUyi4SB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "18",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.MicroservicesParentApplication">
+    <configuration name="MicroservicesParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservices-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ca.gbc.microservicesparent.MicroservicesParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="product-services.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ca.gbc.productservices.ProductServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a138141-2f8b-4ca5-91ab-354ef9afc049" name="Changes" comment="" />
+      <created>1695351295968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695351295968</updated>
+      <workItem from="1695351296994" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
