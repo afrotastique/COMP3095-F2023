@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a138141-2f8b-4ca5-91ab-354ef9afc049" name="Changes" comment="Exercise 1&#10;Product Services">
-      <change afterPath="$PROJECT_DIR$/product-services/src/test/java/ca/gbc/productservices/AbstractContainerBaseTest.java" afterDir="false" />
+    <list default="true" id="5a138141-2f8b-4ca5-91ab-354ef9afc049" name="Changes" comment="Exercise 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-services/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/product-services/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-services/src/main/java/ca/gbc/productservices/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-services/src/main/java/ca/gbc/productservices/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-services/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-services/src/test/java/ca/gbc/productservices/ProductServicesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-services/src/test/java/ca/gbc/productservices/ProductServicesApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,28 +84,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/nodejs/npm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Program Files/nodejs/npm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\julie\OneDrive - George Brown College\Sem 5\Java Web App\Exercise1\microservices-parent\product-services\src\main\java" />
@@ -307,7 +304,7 @@
       <workItem from="1695399661779" duration="17402000" />
       <workItem from="1697230217815" duration="13416000" />
       <workItem from="1697322042724" duration="4989000" />
-      <workItem from="1697336786782" duration="2883000" />
+      <workItem from="1697336786782" duration="3322000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit Take 2 (spelling mistake)">
       <option name="closed" value="true" />
@@ -349,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695487498170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise 2">
+      <option name="closed" value="true" />
+      <created>1697340179608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697340179608</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +374,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit Take 2 (spelling mistake)" />
     <MESSAGE value="Exercise 1&#10;Product Services" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1&#10;Product Services" />
+    <MESSAGE value="Exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

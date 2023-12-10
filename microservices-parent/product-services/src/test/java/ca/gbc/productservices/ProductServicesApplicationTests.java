@@ -90,7 +90,6 @@ public class ProductServicesApplicationTests extends AbstractContainerBaseTest{
                 .content(productRequestString))
                 .andExpect(MockMvcResultMatchers.status().isCreated());
 
-        //Deviation
         Assertions.assertTrue(!productRepository.findAll().isEmpty());
 
         Query query = new Query();

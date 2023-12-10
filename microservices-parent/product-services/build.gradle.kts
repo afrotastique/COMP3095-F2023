@@ -31,9 +31,11 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     implementation("org.testcontainers:testcontainers-bom:1.18.1")
     testImplementation("org.testcontainers:mongodb:1.18.1")
-
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.1")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.1")
+    implementation("io.micrometer:micrometer-observation:1.11.3")
+    implementation("io.micrometer:micrometer-tracing-bridge-brave:1.1.4")
+    implementation("io.zipkin.reporter2:zipkin-reporter-brave:2.16.4")
 }
 
 tasks.withType<Test> {
